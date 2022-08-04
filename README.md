@@ -12,3 +12,7 @@
 - m to move a file
 - c to copy a file
 - ! to enter a terminal command
+
+## Demo
+
+<img src="demo.gif">
